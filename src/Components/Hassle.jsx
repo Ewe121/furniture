@@ -1,7 +1,7 @@
 import React from "react";
 import mencarry from "../assets/menchair.svg";
 import bedroom from "../assets/bedroom.svg";
-import vectorfrd from "../assets/vector.svg";
+import vectorfrd from "../assets/veed.svg";
 
 const Hassle = () => {
   return (
